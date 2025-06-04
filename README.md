@@ -13,3 +13,7 @@
 - Colors
 - Labels and formatting
 - Exporting the charts
+
+#### Section 03 Time Series, Aggregation and filters 
+- Extracts
+- 
