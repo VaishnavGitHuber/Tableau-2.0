@@ -16,4 +16,10 @@
 
 #### Section 03 Time Series, Aggregation and filters 
 - Extracts
-- 
+- Working with Time Series Data
+- Aggregation, Granulairity, Level of detail
+- Area chart & highlighting
+- Filters & Quick Filters
+
+
+
