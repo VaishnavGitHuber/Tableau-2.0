@@ -23,6 +23,8 @@
 
 #### Section 04 Maps, Scatterplots, Your first dashboards
 - Relation ship vs Joints : Double tap to go to physical layer 
-- 
+- Creating a Map Working with the heirarchy
+- Creating a scatter plot, apply filters to multiple worksheets
+- Lets create a dashboard 
 
 
